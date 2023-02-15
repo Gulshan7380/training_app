@@ -1,0 +1,25 @@
+.head {
+     top: 0;
+     text-align:center;
+     color: red;
+     background-color:hsl(201, 91%, 47%); 
+     padding: 15px;
+     font-size: 25px;  
+}
+.container {
+     min-height: 400px; 
+     text-align: center; 
+     margin-top:20px;
+     color:red; 
+     background: lightgreen;
+     margin-bottom: 15px;
+     font-size: 17px;
+}
+.foot {
+     bottom:0; 
+     text-align:center;
+     color:red;
+     background:lightblue; 
+     padding:15px;
+     font-size: 25px;
+}
